@@ -7,6 +7,7 @@ A Drupal install profile that has the best things in
 List of the best modules that we include in this profile
 --------------------------------------------------------
 
+- admin_menu
 - ckeditor
 - context
 - ctools
@@ -18,7 +19,7 @@ List of the best modules that we include in this profile
 - libraries
 - metatag
 - module_filter
-- navbar
+- ~~navbar~~
 - pathauto
 - redirect
 - token
